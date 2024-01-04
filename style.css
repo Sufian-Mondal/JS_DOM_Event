@@ -1,3 +1,9 @@
 .form_info {
   margin-bottom: 1rem;
 }
+
+#div1 {
+  height: 20rem;
+  width: 20rem;
+  background-color: brown;
+}
